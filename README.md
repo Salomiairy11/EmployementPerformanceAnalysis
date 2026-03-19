@@ -69,9 +69,14 @@ The dashboard connects directly to the BigQuery tables and provides interactive 
 
 ### Dashboard Preview
 
-![Dashboard Overview](./screenshots/ss1.PNG)
-![](./screenshots/ss2.PNG)
-![](./screenshots/ss3.PNG)
+![Dashboard1 Employee Demographics](./screenshots/ss1.PNG)
+!(./screenshots/ss2.PNG)
+!(./screenshots/ss3.PNG)
+
+![Dashboard2 Employee Performance and Satisfaction Analysis](./screenshots/ss4.PNG)
+!(./screenshots/ss5.PNG)
+!(./screenshots/ss6.PNG)
+
 
 ### KPI Scorecards
 | Metric | Value |
