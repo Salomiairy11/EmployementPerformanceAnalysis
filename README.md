@@ -79,29 +79,5 @@ Structured validation queries run against both `table1` and `table2` after creat
 
 ---
 
-### KPI Scorecards
-| Metric | Value |
-|--------|-------|
-| Total Employees | 1,500 |
-| Average Age | 29 |
-| Average Salary | $113K |
-| Avg Years at Company | 5 |
-| Avg Work-Life Balance | 3/5 |
 
-### Visualizations Included
-- **Department distribution** — Donut chart (Technology 65.4%, Sales 30.3%, HR 4.3%)
-- **Job Role by headcount** — Bar chart across 13 roles
-- **Salary distribution by Department, Job Role, Education Field & Level** — Stacked bar charts
-- **Attrition by Age Group and Department** — Bar charts with true/false split
-
-### Dashboard Filters
-- Job Role · Department · Gender · State
-
-
-## Key Insights
-
-- **Technology dominates headcount** at 65.4%, with Sales Executives being the largest single job role
-- **Majority of employees fall in the 50K–150K salary band**, with senior roles showing higher salary tier concentrations
-- **Attrition is highest in the 18–24 age group**, suggesting early-career turnover risk
-- **Average work-life balance of 3/5** and training opportunities taken of 1 point to potential engagement improvement areas
 
