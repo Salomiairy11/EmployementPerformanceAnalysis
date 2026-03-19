@@ -15,6 +15,24 @@
 
 ---
 
+### Dashboard Preview
+
+![Dashboard1 Employee Demographics](./screenshots/ss1.PNG)
+![](./screenshots/ss2.PNG)
+![](./screenshots/ss3.PNG)
+
+![Dashboard2 Employee Performance and Satisfaction Analysis](./screenshots/ss4.PNG)
+![](./screenshots/ss5.PNG)
+![](./screenshots/ss6.PNG)
+
+
+## Looker Studio Dashboard
+
+[View Live Dashboard](https://lookerstudio.google.com/reporting/395a29fe-395b-4b51-ad7f-3fa757cc31b6) 
+
+The dashboard connects directly to the BigQuery tables and provides interactive filtering across all key dimensions.
+
+
 ## Dataset Overview
 
 The raw data consists of **5 relational tables** stored in BigQuery:
@@ -60,23 +78,6 @@ Structured validation queries run against both `table1` and `table2` after creat
 > Both tables returned 0 nulls and 0 duplicates — confirming clean, report-ready data.
 
 ---
-
-## Looker Studio Dashboard
-
-[View Live Dashboard](https://lookerstudio.google.com/reporting/395a29fe-395b-4b51-ad7f-3fa757cc31b6) 
-
-The dashboard connects directly to the BigQuery tables and provides interactive filtering across all key dimensions.
-
-### Dashboard Preview
-
-![Dashboard1 Employee Demographics](./screenshots/ss1.PNG)
-!(./screenshots/ss2.PNG)
-!(./screenshots/ss3.PNG)
-
-![Dashboard2 Employee Performance and Satisfaction Analysis](./screenshots/ss4.PNG)
-!(./screenshots/ss5.PNG)
-!(./screenshots/ss6.PNG)
-
 
 ### KPI Scorecards
 | Metric | Value |
